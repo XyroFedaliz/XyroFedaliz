@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=widodoetch&theme=onedark" alt="github trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=XyroFedaliz&theme=onedark" alt="github trophies" />
   </a>
 </p>
 
@@ -67,7 +67,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=widodoetch&show_icons=true&theme=radical" alt="Xyro's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XyroFedaliz&show_icons=true&theme=radical" alt="Xyro's GitHub Stats" />
 </p>
 
 ---
@@ -82,4 +82,4 @@
 
 ---
 
-📌 Feel free to check out my projects or connect with me via Discord or Facebook!
+📌 Feel free to check out my projects or connect with me!
