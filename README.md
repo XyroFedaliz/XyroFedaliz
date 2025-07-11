@@ -10,7 +10,7 @@
 ## 🧑‍💻 About Me
 
 - 🌱 I’m currently learning Python, MySQL, and PyQt
-- 🎬 I just finished developing a desktop ticketing app for cinemas: [AbsoluteCinema](https://github.com/yourusername/AbsoluteCinema)
+- 🎬 I just finished developing a desktop ticketing app for cinemas: [AbsoluteCinema](https://github.com/XyroFedaliz/Absolute-Cinema)
 - 💡 I'm exploring back-end development & automation tools
 - 📚 Always open to new challenges and collaborations!
 
