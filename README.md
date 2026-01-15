@@ -44,16 +44,6 @@
 
 ### 📈 Statistics
 
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=XyroFedaliz&show_icons=true&theme=radical&hide_border=false" alt="Xyro's GitHub Stats" />
-  <br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=XyroFedaliz&theme=darkhub&no-frame=true&margin-w=15" alt="Trophy" />
-  </a>
-</div>
-
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xme/0xme/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xme/0xme/output/github-contribution-grid-snake.svg">
