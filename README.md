@@ -2,13 +2,13 @@
   <h1>👋 Hello, I'm Xyro</h1>
   
   <p>
-    <b>Aspiring Web Developer | Python Enthusiast | Backend Learner</b>
+    <b>Aspiring Web Developer | Android Enthusiast | Backend Learner</b>
   </p>
 
   <br>
 
   <p>
-    <i>"I am an aspiring web developer, actively honing my skills through independent practice projects. I am a fast learner who is open to feedback and highly committed to continuously improving every piece of work I create."</i>
+    <i>"I am an aspiring developer, actively honing my skills through independent practice projects. I am a fast learner who is open to feedback and highly committed to continuously improving every piece of work I create."</i>
   </p>
 
   <a href="https://discord.gg/DEgDqbdkgP">
@@ -24,7 +24,7 @@
 
 ### 🚀 About Me
 
-> 🌱 **Current Focus:** Python, MySQL, and PyQt  
+> 🌱 **Current Focus:** Laravel, Kotlin, & Android Development  
 > 🎬 **Latest Work:** [AbsoluteCinema](https://github.com/XyroFedaliz/Absolute-Cinema) (Desktop Ticketing App)  
 > 💡 **Interest:** Backend development & automation  
 
@@ -32,10 +32,12 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
 </p>
 
