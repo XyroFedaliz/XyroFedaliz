@@ -17,7 +17,7 @@
   <a href="https://www.facebook.com/profile.php?id=Xyro">
     <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat&logo=facebook" alt="Facebook">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=widodoetch&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=widodoetch&label=Views&color=blue&style=flat" alt="Views" />
 </div>
 
 <hr>
