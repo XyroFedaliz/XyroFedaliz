@@ -17,7 +17,7 @@
   <a href="https://www.facebook.com/profile.php?id=Xyro">
     <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat&logo=facebook" alt="Facebook">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=XyroFedaliz&label=Views&color=blue&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=widodoetch&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <hr>
@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
 </p>
 
@@ -54,7 +55,7 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XyroFedaliz/XyroFedaliz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XyroFedaliz/XyroFedaliz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/XyroFedaliz/XyroFedaliz/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xme/0xme/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xme/0xme/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0xme/0xme/output/github-contribution-grid-snake.svg">
 </picture>
