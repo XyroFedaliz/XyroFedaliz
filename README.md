@@ -25,8 +25,8 @@
 ### 🚀 About Me
 
 > 🌱 **Current Focus:** Laravel, Kotlin, & Android Development  
-> 🎬 **Featured Work:** [MySawah](https://github.com/XyroFedaliz/MySawah) (Mobile AI & Agri-Commerce Solution)
-> 💡 **Interest:** Backend development & automation  
+> 🎬 **Featured Work:** [MySawah](https://github.com/XyroFedaliz/MySawah) (Mobile AI & Agri-Commerce Solution)  
+> 💡 **Interest:** Backend development & automation
 
 ### 🛠️ Tech Stack
 
