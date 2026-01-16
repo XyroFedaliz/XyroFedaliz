@@ -14,7 +14,7 @@
   <a href="https://discord.gg/DEgDqbdkgP">
     <img src="https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=flat&logo=discord" alt="Discord">
   </a>
-  <a href="https://www.facebook.com/profile.php?id=Xyro">
+  <a href="https://www.facebook.com/share/1BcK7rdtGN/">
     <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat&logo=facebook" alt="Facebook">
   </a>
   <img src="https://komarev.com/ghpvc/?username=widodoetch&label=Views&color=blue&style=flat" alt="Views" />
